@@ -1,3 +1,3 @@
-![](https://raw.githubusercontent.com/diegots/comidas/master/meal-prepare.svg)
+![Cooking setup](https://raw.githubusercontent.com/diegots/comidas/master/meal-prepare.svg)
 # Planificación semanal de comidas
 
