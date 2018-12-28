@@ -1,0 +1,21 @@
+﻿- lunes: albóndigas con arroz
+  - comida:
+  - cena:
+- martes
+  - comida:
+  - cena:
+- miércoles
+  - comida:
+  - cena:
+- jueves
+  - comida:
+  - cena:
+- viernes
+  - comida:
+  - cena:
+- sábado
+  - comida:
+  - cena:
+- domingo
+  - comida:
+  - cena:
