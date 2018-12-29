@@ -1,21 +1,21 @@
 ﻿- lunes: 
-  - comida: albóndigas con arroz
-  - cena:
+  - comida: no se sabe      
+  - cena:salmon y gambas
 - martes
-  - comida:
-  - cena:
+  - comida:lasaña
+  - cena:sopa
 - miércoles
-  - comida:
-  - cena:
+  - comida:pasta con pollo y champiñones
+  - cena:tostas de jamón tomate y queso
 - jueves
-  - comida:
-  - cena:
+  - comida:quiche
+  - cena:cazuela
 - viernes
-  - comida:
-  - cena:
+  - comida:arroz, de verduras zanahoria, pimiento, calabacín, brocoli
+  - cena:pizza...
 - sábado
-  - comida:
-  - cena:
+  - comida:salmon con pure de patata
+  - cena:calabacín relleno
 - domingo
-  - comida:
-  - cena:
+  - comida:tortilla de patata
+  - cena:crema
