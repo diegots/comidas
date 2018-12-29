@@ -1,5 +1,5 @@
-﻿- lunes: albóndigas con arroz
-  - comida:
+﻿- lunes: 
+  - comida: albóndigas con arroz
   - cena:
 - martes
   - comida:
