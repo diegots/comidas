@@ -5,7 +5,7 @@
   - comida:lasaña
   - cena:sopa
 - miércoles
-  - comida:pasta con pollo y champiñones
+  - comida:arroz con pollo y champiñones
   - cena:tostas de jamón tomate y queso
 - jueves
   - comida:quiche
