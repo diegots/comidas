@@ -1,5 +1,5 @@
 ﻿- lunes: 
-  - comida: no se sabe      
+  - comida: pasta con carne     
   - cena:salmon y gambas
 - martes
   - comida:lasaña
