@@ -5,7 +5,7 @@
   - comida:lasaña
   - cena:sopa
 - miércoles
-  - comida:arroz con pollo y champiñones
+  - comida:como en la universidad
   - cena:tostas de jamón tomate y queso
 - jueves
   - comida:quiche
