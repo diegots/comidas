@@ -8,13 +8,13 @@
   - comida:como en la universidad
   - cena:tostas de jamón tomate y queso
 - jueves
-  - comida:quiche
+  - comida:salmón con arroz de verduras (zanahoria, pimiento, calabacín)
   - cena:cazuela
 - viernes
-  - comida:arroz, de verduras zanahoria, pimiento, calabacín, brocoli
+  - comida:quiche (atún con calabacín)
   - cena:pizza...
 - sábado
-  - comida:salmon con pure de patata
+  - comida:salmón con pure de patata
   - cena:calabacín relleno
 - domingo
   - comida:tortilla de patata
