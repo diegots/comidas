@@ -8,14 +8,14 @@
   - comida:como en la universidad
   - cena:tostas de jamón tomate y queso
 - jueves
-  - comida:salmón con arroz de verduras (zanahoria, pimiento, calabacín)
+  - comida:_quiché de salmón_ [Receta](https://www.miarevista.es/salud/fotos/15-recetas-faciles-con-salmon/11)
   - cena:cazuela
 - viernes
   - comida:quiche (atún con calabacín)
   - cena:pizza...
 - sábado
   - comida:salmón con pure de patata
-  - cena:calabacín relleno
+  - cena:calabacín relleno y sangría
 - domingo
-  - comida:tortilla de patata
-  - cena:crema
+  - comida:comemos en las termas
+  - cena:crema de calabaza

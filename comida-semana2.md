@@ -1,0 +1,21 @@
+- lunes:
+  - comida:patatas con judias y huevos  
+  - cena:sopa
+- martes (Laura comienza las clases)
+  - comida:arroz delicias
+  - cena:tostas de jamon, queso, tomate
+- miércoles
+  - comida:cocido
+  - cena:tortilla rellena(tres huevos, sobre 5 espárragos,tres lonchas de jamón, tres lonchas de queso)
+- jueves
+  - comida:pasta con nata champiñones y pavo
+  - cena:albondigas de patata
+- viernes
+  - comida:cocido
+  - cena:tomates rellenos asados
+- sábado
+  - comida:pescado con patatas y ajada
+  - cena:hamburguesas
+- domingo
+  - comida:tortilla de patata
+  - cena:sopa
