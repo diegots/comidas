@@ -8,7 +8,7 @@
   - comida:como en la universidad
   - cena:tostas de jamón tomate y queso
 - jueves
-  - comida:_quiché de salmón_ [Receta](https://www.miarevista.es/salud/fotos/15-recetas-faciles-con-salmon/11)
+  - comida:_quiché de salmón_ [Receta](https://www.miarevista.es/cocina/primeros/receta/pie-de-patata-y-salmon)
   - cena:cazuela
 - viernes
   - comida:quiche (atún con calabacín)
