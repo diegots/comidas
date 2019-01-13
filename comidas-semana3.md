@@ -1,0 +1,21 @@
+- lunes:
+  - comida:pasta con champiñones y pavo
+  - cena:crema de calabaza 
+- martes
+  - comida:arroz con albóndigas (que hay en el congelador)
+  - cena:sopa
+- miércoles
+  - comida:cocido
+  - cena:merluza con puré de patata (usar también la lamina del congelador)
+- jueves
+  - comida:lentejas vegetales con un poquito de chorizo para que le guste a Diego
+  - cena:pimientos asados
+- viernes (comprar pepperoni)
+  - comida:cocido
+  - cena:pollo con verduras (zanahorias, brocoli, pimiento...)
+- sábado
+  - comida:pescado con patatas cocidas con ajada
+  - cena:cazuela de chorizo, esparragos...
+- domingo
+  - comida:pizza de pepperoni
+  - cena:revuelto de champiñones
