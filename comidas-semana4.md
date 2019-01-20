@@ -1,0 +1,21 @@
+- lunes:
+  - comida:Quiché
+  - cena:revuelto de champiñones
+- martes
+  - comida:Pasta con carne
+  - cena:membrillo con queso y pan del bueno
+- miércoles
+  - comida:Arroz sofrito (CON EL BRÓCOLI ;-)
+  - cena:crema de calabaza
+- jueves
+  - comida:patatas cocidas,judias,huevo y sardinillas
+  - cena:tortilla rellena con espárragos, jamón york y queso
+- viernes
+  - comida:Pollo a la naranja con arroz
+  - cena:Tostas de jamón, queso y tomate
+- sábado
+  - comida:pescado con patatas y ajada
+  - cena:Pollo con verduras
+- domingo
+  - comida:tortilla de patata con pimiento rojo y verde
+  - cena:sopa (SACAR DEL congelador!!!!)
