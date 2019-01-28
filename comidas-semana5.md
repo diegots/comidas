@@ -1,0 +1,22 @@
+
+- martes
+  - comida:pasta con verduras
+  - cena:cazuela de chorizo, jamón espárragos...
+- miércoles
+  - comida:arroz con pollo
+  - cena:tortilla rellena
+- jueves
+  - comida:quiché
+  - cena:calabacín relleno
+- viernes
+  - comida:guiso de habas con patatas, chorizo
+  - cena:tostas de jamón, queso, tomate
+- sábado
+  - comida:pescado con patatas o ensalada
+  - cena:bolas de patata (patata, atún, zanahoria, huevos, perejil, sal). Se reboza en harina, huevo y pan
+- domingo
+  - comida:pizza
+  - cena:pescado con puré de patata
+- lunes:
+  - comida:arroz delicias
+  - cena:sopa y sandwich
