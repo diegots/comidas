@@ -19,3 +19,6 @@
 - domingo
   - comida:tortilla de patata con pimiento rojo y verde
   - cena:sopa (SACAR DEL congelador!!!!)
+- lunes:
+  - comida:patatas cocidas con judias y huevo y sardinillas
+  - cena:sopa

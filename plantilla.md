@@ -1,6 +1,4 @@
-- lunes:
-  - comida:
-  - cena:
+
 - martes
   - comida:
   - cena:
@@ -17,5 +15,8 @@
   - comida:
   - cena:
 - domingo
+  - comida:
+  - cena:
+- lunes:
   - comida:
   - cena:
