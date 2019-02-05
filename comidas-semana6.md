@@ -1,0 +1,22 @@
+
+- martes
+  - comida:lentejas
+  - cena:tortilla rellena
+- miércoles
+  - comida:pasta con verduras
+  - cena:crema de calabaza
+- jueves
+  - comida:arroz con bacalao y gambas
+  - cena:pescado con puré de patata
+- viernes
+  - comida:guiso de garbanzos
+  - cena:tostas de jamón
+- sábado
+  - comida:pescado con patatas
+  - cena:cazuela
+- domingo
+  - comida:tortilla de patatas
+  - cena:revuelto de champiñones
+- lunes:
+  - comida:arroz con albóndigas
+  - cena:sopa y sandwich
