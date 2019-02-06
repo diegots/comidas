@@ -4,7 +4,7 @@
   - cena:tortilla rellena
 - miércoles
   - comida:pasta con verduras
-  - cena:pescado con puré de patata
+  - cena:arroz con la salsa de la nevera
 - jueves
   - comida:arroz con bacalao y gambas
   - cena:revuelto de champiñones
