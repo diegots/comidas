@@ -4,10 +4,10 @@
   - cena:tortilla rellena
 - miércoles
   - comida:pasta con verduras
-  - cena:crema de calabaza
+  - cena:pescado con puré de patata
 - jueves
   - comida:arroz con bacalao y gambas
-  - cena:pescado con puré de patata
+  - cena:revuelto de champiñones
 - viernes
   - comida:guiso de garbanzos
   - cena:tostas de jamón
@@ -15,8 +15,8 @@
   - comida:pescado con patatas
   - cena:cazuela
 - domingo
-  - comida:tortilla de patatas
-  - cena:revuelto de champiñones
+  - comida:patatas con pollo rebozado
+  - cena:sopa y sandwich
 - lunes:
   - comida:arroz con albóndigas
-  - cena:sopa y sandwich
+  - cena:crema de calabaza
