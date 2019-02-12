@@ -1,0 +1,22 @@
+
+- martes
+  - comida:pasta con atún,tomate,queso
+  - cena:sopa
+- miércoles
+  - comida:cocido
+  - cena:salmón con puré de patata
+- jueves
+  - comida:cocido
+  - cena:tortilla rellena
+- viernes
+  - comida:pasta con verduras
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:arroz sofrito
+- domingo
+  - comida:churrasco
+  - cena:salteado de verduras
+- lunes:
+  - comida:quiché
+  - cena:sopa
