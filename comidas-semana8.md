@@ -1,0 +1,22 @@
+
+- martes
+  - comida: patatas con judías, huevo y atún
+  - cena: repetimos por la noche
+- miércoles
+  - comida: guiso de patata con chorizo
+  - cena: tortilla rellena (3 huevos, espárragos, queso y jamón)
+- jueves
+  - comida: arroz delicias
+  - cena: tostas de jamón, queso y tomate
+- viernes
+  - comida: pasta con carne
+  - cena: merluza con puré de patata
+- sábado
+  - comida: se come fuera
+  - cena: se come fuera
+- domingo
+  - comida: tortilla de patata
+  - cena: sopa
+- lunes:
+  - comida: lentejas
+  - cena: cazuela
