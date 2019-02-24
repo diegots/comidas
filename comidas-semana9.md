@@ -1,0 +1,22 @@
+
+- martes
+  - comida: arroz con albóndigas en salsa española
+  - cena: crema de calabaza
+- miércoles
+  - comida: ensaladilla
+  - cena: tostas de jamón, queso y tomate
+- jueves
+  - comida: quiché atún con calabacín
+  - cena: sopa (agua del cocido que hay en el congelador)
+- viernes
+  - comida: pasta con verduras (calabacín, pimiento, zanahoria y champión)
+  - cena: pizza de queso, tomate espárragos, pimientos y peperoni
+- sábado
+  - comida: pescado con ensalada
+  - cena: filloas vegetales como aquellas de Acuña ;-)
+-  domingo
+  - comida: guiso de habas
+  - cena: albóndigas en salta española con patatas fritas
+- lunes:
+  - comida: arroz a la cubana
+  - cena: sobras del guíso de habas con sobras de filloas sin rellenar
