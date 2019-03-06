@@ -1,0 +1,22 @@
+
+- martes
+  - comida:bocata
+  - cena:bocata y colacao
+- miércoles
+  - comida:patatas con judias y huevo
+  - cena:lo mismo con enrrollados de lechuga mayonesa y pimiento,atun
+- jueves
+  - comida:pasta con carne
+  - cena:sopa
+- viernes
+  - comida:arroz sofrito
+  - cena:pizza (queso,jamon,pimientos,champiñones,aceitunas)
+- sábado
+  - comida:pescado con patatas al horno
+  - cena:pollo con verduras
+- domingo
+  - comida:pollo rebozado con ensalada
+  - cena:tostas
+- lunes:
+  - comida:arroz con albondigas
+  - cena:crema de...
