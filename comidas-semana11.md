@@ -1,0 +1,22 @@
+
+- martes
+  - comida: cocido
+  - cena: tacita
+- miércoles
+  - comida: cocido
+  - cena: cocido
+- jueves
+  - comida: pasta con atún, tomate y queso
+  - cena: tacita
+- viernes
+  - comida: guiso de garbanzos
+  - cena: hamburguesas de pollo y espinacas
+- sábado
+  - comida: pescado con patatas y ajada
+  - cena: pizza de jamón, queso y piña
+- domingo
+  - comida: calamares en el Umia
+  - cena: sopa
+- lunes:
+  - comida: arroz con bacalao y gambas
+  - cena: cazuela de jamón, chorizo, tomate, guisantes, judías, espárragos y huevo
