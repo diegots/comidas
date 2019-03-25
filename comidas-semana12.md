@@ -1,0 +1,22 @@
+
+- martes
+  - comida: patatas con judía, huevo y atún
+  - cenar: sandwiches y zumo de lechuga con manzana o plátano
+- miércoles
+  - comida: lentejas con chorizo, carne, pimiento, zanahoria
+  - cena: salteado de verduras (brócoli, coliflor, zahahorias, judías, calabacín)
+- jueves
+  - comida: quiché de atún con calabacín
+  - cena: merluza con puré de patata
+- viernes
+  - comida: pasta con verduras
+  - cena: tostas de jamón, queso y tomate
+- sábado
+  - comida: pescado con patatas o ensalada
+  - cena: tortilla rellena de queso, jamón y espárragos
+- domingo
+  - comida: tortilla de patata
+  - cena: crema de calabaza
+- lunes:
+  - comida: arroz sofrito
+  - cena: patatas y brócoli cocidos con ajada
