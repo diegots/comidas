@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz con bacalao y gambas
+  - cena:crema de calabaza
+- miércoles
+  - comida:pasta con atún, tomate y queso
+  - cena:tostas de jamón,queso y tomate
+- jueves
+  - comida:quiché
+  - cena:merluza rebozada en pan rallado con puré de patata
+- viernes
+  - comida:arroz con albóndigas
+  - cena:pizza
+- sábado
+  - comida:pescado(o tortilla...)
+  - cena:pollo empanado
+- domingo
+  - comida:costilla al horno
+  - cena:jamón con guisantes y judias
+- lunes:
+  - comida:patatas con judias, huevo y atún
+  - cena:crema
