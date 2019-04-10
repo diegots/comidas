@@ -1,0 +1,21 @@
+- martes
+  - comida:pasta amarilla con pollo 
+  - cena:taza de colacao
+- miércoles
+  - comida:lentejas
+  - cena:jamon con guisantes y judias 
+- jueves
+  - comida:garbanzos con bacalao
+  - cena:crema de calabaza
+- viernes
+  - comida:arroz delicias
+  - cena:tostas
+- sábado
+  - comida:pescado(o tortilla...)
+  - cena:merluza rebozada en pan rallado con puré de patata
+- domingo
+  - comida:costilla al horno
+  - cena:sopa
+- lunes:
+  - comida:arroz amarillo con pollo
+  - cena:cazuela
