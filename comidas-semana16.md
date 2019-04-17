@@ -1,0 +1,22 @@
+
+- martes
+  - comida:pasta con albóndigas
+  - cena:crema de calabaza
+- miércoles
+  - comida:patatas con judias, huevo y atún
+  - cena:pizza
+- jueves
+  - comida:pasta con carne
+  - cena:queso con membrillo
+- viernes
+  - comida:arroz con bacalao
+  - cena:judias con guisantes y jamón
+- sábado
+  - comida:pescado
+  - cena:tostas de jamón
+- domingo
+  - comida:patatas con albóndigas y bechamel
+  - cena:crema del congelador
+- lunes:
+  - comida:quiché
+  - cena:sopa
