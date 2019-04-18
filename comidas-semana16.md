@@ -3,7 +3,7 @@
   - comida:pasta con albóndigas
   - cena:crema de calabaza
 - miércoles
-  - comida:patatas con judias, huevo y atún
+  - comida:patatas con judías, huevo y atún
   - cena:pizza
 - jueves
   - comida:pasta con carne
