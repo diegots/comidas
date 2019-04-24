@@ -1,0 +1,22 @@
+
+- martes
+  - comida:guiso de patatas
+  - cena:crema de calabaza
+- miércoles
+  - comida:patatas con judias, atún y huevo
+  - cena:sopa
+- jueves
+  - comida:arroz amarillo con pollo y champis
+  - cena:tostas de jamón
+- viernes
+  - comida:pasta con verduras
+  - cena:hamburguesa
+- sábado
+  - comida:pescado
+  - cena:jamón con queso rebozados
+- domingo
+  - comida:ensaladilla
+  - cena:puré de patata con merluza
+- lunes:
+  - comida:lentejas
+  - cena:cazuela
