@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz
+  - cena:taza
+- miércoles
+  - comida:pasta con carne
+  - cena:tortilla rellena
+- jueves
+  - comida:guiso patatas
+  - cena:tostas jamon
+- viernes
+  - comida:arroz con albóndigas
+  - cena:cena en Monteporreiro
+- sábado
+  - comida:Marín
+  - cena:Monteporreiro
+- domingo
+  - comida:Pontevedra
+  - cena:sandwich con jugo de lechuga, plátano y arándanos
+- lunes:
+  - comida:arroz amarillo con pollo
+  - cena:sopa
