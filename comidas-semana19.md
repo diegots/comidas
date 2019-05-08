@@ -1,0 +1,22 @@
+
+- martes
+  - comida:guiso patatas
+  - cena:pizza
+- miércoles
+  - comida:pasta con verduras
+  - cena: hojaldre relleno de champiñones y bacon
+- jueves
+  - comida:lentejas
+  - cena:crema de calabaza
+- viernes
+  - comida:arroz sofrito
+  - cena:menestra
+- sábado
+  - comida:pescado
+  - cena:pizza
+- domingo
+  - comida:costilla
+  - cena:gazpacho
+- lunes:
+  - comida:pasta con carne
+  - cena:cazuela
