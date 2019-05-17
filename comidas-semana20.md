@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz sofrito
+  - cena:salmorejo y sandwich
+- miércoles
+  - comida:pasta con carne
+  - cena:repollo con ajada
+- jueves
+  - comida:bocata
+  - cena:taza de cacao
+- viernes
+  - comida:costilla
+  - cena:crema de calabaza
+- sábado
+  - comida:pescado
+  - cena:hamburguesa
+- domingo
+  - comida:cous-cus con verduras
+  - cena:tostas de jamón
+- lunes:
+  - comida:pasta con verduras
+  - cena:tortilla rellena
