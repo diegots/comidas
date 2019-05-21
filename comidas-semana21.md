@@ -1,0 +1,22 @@
+
+- martes
+  - comida:guiso de patatas con verduras
+  - cena:tortilla rellena
+- miércoles
+  - comida:gazpacho
+  - cena:pescado con puré de patata
+- jueves
+  - comida:lentejas
+  - cena:sandwidch y jugo de lechuga
+- viernes
+  - comida:arroz delicias
+  - cena:tostas de jamón
+- sábado
+  - comida:pescado
+  - cena:pizza
+- domingo
+  - comida:pechuga rebozada
+  - cena:salteado de verduras (brócoli, coliflor, zahahorias, judías, calabacín)
+- lunes:
+  - comida:arroz sofrito
+  - cena:ensaladilla
