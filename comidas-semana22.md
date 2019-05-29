@@ -13,7 +13,7 @@
   - cena:tostas
 - sábado
   - comida:pescado
-  - cena:tortilla rellena
+  - cena:tortilla rellena (queso, jamón y espárragos)
 - domingo
   - comida:costilla
   - cena:gazpacho
