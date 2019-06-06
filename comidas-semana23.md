@@ -1,0 +1,22 @@
+¡queremos comer algo!
+- martes
+  - comida:
+  - cena:
+- miércoles
+  - comida:
+  - cena:
+- jueves
+  - comida:
+  - cena:
+- viernes
+  - comida:
+  - cena:
+- sábado
+  - comida:
+  - cena:
+- domingo
+  - comida:
+  - cena:
+- lunes:
+  - comida:
+  - cena:
