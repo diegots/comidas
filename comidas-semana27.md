@@ -1,0 +1,22 @@
+Estos son los cambios para la semana 27.
+- martes
+  - comida:
+  - cena:
+- miércoles
+  - comida:
+  - cena:
+- jueves
+  - comida:
+  - cena:
+- viernes
+  - comida:
+  - cena:
+- sábado
+  - comida:
+  - cena:
+- domingo
+  - comida:
+  - cena:
+- lunes:
+  - comida:
+  - cena:
