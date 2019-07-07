@@ -1,7 +1,7 @@
 Estos son los cambios para la semana 27.
 - martes
-  - comida:
-  - cena:
+  - comida: pasta con pollo
+  - cena: aún me lo tengo que pensar
 - miércoles
   - comida:
   - cena:
