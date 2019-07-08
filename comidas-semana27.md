@@ -1,22 +1,22 @@
 Estos son los cambios para la semana 27.
 - martes
   - comida: pasta con pollo
-  - cena: aún me lo tengo que pensar
+  - cena: jugo de lechuga, tostas de aguacate
 - miércoles
-  - comida:
-  - cena:
+  - comida:arroz sofrito
+  - cena:filloas con queso salmón, aguacate
 - jueves
-  - comida:
-  - cena:
+  - comida:ensalada de lentejas
+  - cena:gazpacho
 - viernes
-  - comida:
-  - cena:
+  - comida:guiso de patatas
+  - cena:pizza
 - sábado
-  - comida:
-  - cena:
+  - comida:pescado
+  - cena:sandwich, jugo de lechuga
 - domingo
-  - comida:
-  - cena:
+  - comida:patatas fritas con pechuga de pollo empanada
+  - cena:pescado con puré de patatas
 - lunes:
-  - comida:
-  - cena:
+  - comida:ensalada de garbanzos
+  - cena:salmorejo
