@@ -1,0 +1,22 @@
+Comidas para la semana 28.
+- martes
+  - comida: pasta con pollo
+  - cena: jugo de lechuga, tostas de aguacate
+- miércoles
+  - comida:arroz sofrito
+  - cena:filloas con queso salmón, aguacate
+- jueves
+  - comida:ensalada de lentejas
+  - cena:gazpacho
+- viernes
+  - comida:guiso de patatas
+  - cena:pizza (jamón serrano, queso y aceitunas)
+- sábado
+  - comida:pescado
+  - cena:sandwich, jugo de lechuga
+- domingo
+  - comida:patatas fritas con pechuga de pollo empanada
+  - cena:pescado con puré de patatas
+- lunes:
+  - comida:comida fuera
+  - cena:salmorejo
