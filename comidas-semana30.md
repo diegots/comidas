@@ -6,7 +6,7 @@
   - comida:ensaladilla
   - cena:ensalada con aguacate
 - jueves
-  - comida:lasaña
+  - comida:lasaña de carne
   - cena:pescado con puré de patata
 - viernes
   - comida:ensalada de garbanzos
