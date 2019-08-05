@@ -1,0 +1,22 @@
+
+- martes
+  - comida:ensalada de pasta
+  - cena:sandwich con manzana asada
+- miércoles
+  - comida:arroz amarillito con pollo
+  - cena:salmorejo
+- jueves
+  - comida:pasta con verduras
+  - cena:ensalada de aguacate
+- viernes
+  - comida:ensalada de garbanzos
+  - cena:gazpacho
+- sábado
+  - comida:pescado
+  - cena:jugo de lechuga con sandwich
+- domingo
+  - comida:costilla
+  - cena:salmorejo
+- lunes:
+  - comida:quiché
+  - cena:pescado con puré de patata
