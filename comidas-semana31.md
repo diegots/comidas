@@ -1,0 +1,22 @@
+
+- martes
+  - comida:ensaladilla
+  - cena:ensaladilla
+- miércoles
+  - comida:ensalada de pasta
+  - cena:manzana asada y colacao
+- jueves
+  - comida:ensalada de lentejas
+  - cena:jugo de lechuga y sandwich
+- viernes
+  - comida:lasaña de carne
+  - cena:bocatas
+- sábado
+  - comida:pescado
+  - cena:pizza
+- domingo
+  - comida:tortilla de patata
+  - cena:gazpacho
+- lunes:
+  - comida:lentejas
+  - cena:pescado con puré de patata
