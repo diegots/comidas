@@ -18,5 +18,5 @@
   - comida:ensalada de lentejas
   - cena:pollo rebozado
 - lunes:
-  - comida:guiso de patatas con verduras
+  - comida:guiso de patatas con carne
   - cena:salteado de verduras
