@@ -1,0 +1,22 @@
+
+- martes
+  - comida:ensaladilla
+  - cena:enrollados
+- miércoles
+  - comida:arroz delicias
+  - cena:cazuela de jamón, guisantes, espárragos, tomate y huevo
+- jueves
+  - comida:quiché
+  - cena:pescado con puré de patata
+- viernes
+  - comida:ensalada de garbanzos
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:gazpacho
+- domingo
+  - comida:ensalada de lentejas
+  - cena:pollo rebozado
+- lunes:
+  - comida:guiso de patatas
+  - cena:salteado de verduras
