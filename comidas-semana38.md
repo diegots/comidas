@@ -3,7 +3,7 @@
   - comida:pasta con carne
   - cena:tortilla rellena, queso, jamón y espárragos
 - miércoles
-  - comida:ensalada de lentejas
+  - comida:ensalada de garbanzos
   - cena:tostas de jamón
 - jueves
   - comida:arroz sofrito
