@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz delicias
+  - cena:tortilla rellena
+- miércoles
+  - comida:lentejas
+  - cena:tostas de jamón
+- jueves
+  - comida:pasta con verduras
+  - cena:pescado con puré de patata
+- viernes
+  - comida:guiso de patatas con carne y chorizo y verduras
+  - cena:jamón y queso rebozados
+- sábado
+  - comida:pescado
+  - cena:pizza
+- domingo
+  - comida:tortilla de patata
+  - cena:salmorejo (según la temperatura exterior)
+- lunes:
+  - comida:arroz sofrito
+  - cena:sandwiches con jugo de frutas
