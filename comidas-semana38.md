@@ -1,0 +1,22 @@
+
+- martes
+  - comida:pasta con carne
+  - cena:tortilla rellena, queso, jamón y espárragos
+- miércoles
+  - comida:ensalada de garbanzos
+  - cena:tostas de jamón
+- jueves
+  - comida:arroz sofrito
+  - cena:ensalada con productos variados
+- viernes
+  - comida:pasta con verduras
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:cazuela, judias,guisantes,tomate, espárragos, huevo
+- domingo
+  - comida:tortilla de patata
+  - cena:gazpacho
+- lunes:
+  - comida:arroz delicias
+  - cena:salmorejo
