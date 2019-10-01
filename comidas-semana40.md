@@ -1,0 +1,22 @@
+
+- martes
+  - comida:guiso de patatas con chorizo
+  - cena:gazpacho con queso y membrillo
+- miércoles
+  - comida:quiché
+  - cena:san jacobos con jugo de frutas
+- jueves
+  - comida:lentejas
+  - cena:pescado con puré de patata
+- viernes
+  - comida:pasta con verduras
+  - cena:pizza
+- sábado
+  - comida:bocata
+  - cena:de fiesta
+- domingo
+  - comida:de fiesta
+  - cena:sopa o gazpacho
+- lunes:
+  - comida:arroz delicias
+  - cena:tostas de jamón, queso y tomate
