@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz con pollo a la naranja
+  - cena:tostas
+- miércoles
+  - comida:pasta con atún tomate y queso
+  - cena:chuches
+- jueves
+  - comida:pollo con pasta
+  - cena:crema de verduras
+- viernes
+  - comida:arroz delicias
+  - cena:tostas variadas, con salmón...
+- sábado
+  - comida:pescado
+  - cena:pizza
+- domingo
+  - comida:pollo rebozado con patatas
+  - cena:crema de verduras
+- lunes:
+  - comida:lentejas
+  - cena:sopa y sandwich
