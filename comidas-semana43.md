@@ -1,0 +1,22 @@
+
+- martes
+  - comida:lentejas con chorizo, carne, pimiento, zanahoria
+  - cena:sopa
+- miércoles
+  - comida:cocido
+  - cena:tortilla rellena de queso, jamón y espárragos
+- jueves
+  - comida:ensaladilla
+  - cena:tostas de jamón, queso y tomate
+- viernes
+  - comida:pasta con guisantes y jamón
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:cazuela de guisantes, judias, tomate, espárragos y huevo
+- domingo
+  - comida:tortilla de patata
+  - cena:sopa
+- lunes:
+  - comida:guiso de habas
+  - cena:crema de verduras
