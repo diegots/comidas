@@ -1,0 +1,22 @@
+
+- martes
+  - comida:cocido
+  - cena:sopa
+- miércoles
+  - comida:pasta con carne
+  - cena:cazuela de jamón, espárragos,guisantes, tomate, huevos
+- jueves
+  - comida:cocido, ésta vez con más sal, a ver si sale mejor...
+  - cena:tostas de jamón, queso, tomate
+- viernes
+  - comida:arroz sofrito
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:hojaldre relleno estilo quiché ¿?
+- domingo
+  - comida:pensaré en algo que no se haga habitualmente...
+  - cena:sopa
+- lunes:
+  - comida:pasta con verduras
+  - cena:crema
