@@ -1,0 +1,22 @@
+
+- martes
+  - comida:lentejas
+  - cena:crema de calabaza
+- miércoles
+  - comida:pasta con verduras
+  - cena:tostas
+- jueves
+  - comida:arroz
+  - cena:sopa
+- viernes
+  - comida:cocido
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:hamburguesa
+- domingo
+  - comida:tortilla de patata
+  - cena:sopa
+- lunes:
+  - comida:pasta con carne
+  - cena:cazuela de tomate, guisantes, jamón y huevo.
