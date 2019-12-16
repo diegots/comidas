@@ -1,0 +1,22 @@
+
+- martes
+  - comida:pasta con carne
+  - cena:tortilla rellena de queso, jamón y espárragos
+- miércoles
+  - comida:arroz sofrito
+  - cena:tostas de jamón,tomate y queso
+- jueves
+  - comida:ensaladilla
+  - cena:cumple Laura
+- viernes
+  - comida:pasta con verduras
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:tostas variadas
+- domingo
+  - comida:costilla
+  - cena:sopa
+- lunes:
+  - comida:cocido de garbanzos
+  - cena:cazuela de jamón, guisantes, espárragos con tomate y huevo
