@@ -1,0 +1,22 @@
+
+- martes
+  - comida:arroz con pollo y champiñones
+  - cena:crema de verduras
+- miércoles
+  - comida:guiso de habas
+  - cena:sopa
+- jueves
+  - comida:lentejas vegetales
+  - cena:tostas
+- viernes
+  - comida:pasta con tomate, atún y queso
+  - cena:pizza
+- sábado
+  - comida:pescado
+  - cena:hamburguesas
+- domingo
+  - comida:pollo empanado con patatas
+  - cena:sopa para depurar lo del mediodía
+- lunes:
+  - comida:arroz sofrito
+  - cena:tortilla rellena de queso, jamón y espárragos
